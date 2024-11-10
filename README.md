@@ -14,3 +14,7 @@
 - DTO Validation: ORM - Validation, ValidationPipe (class-validator class-transformer)
 - REST API: Serverless Postgres - Neon, Prisma (schema, CRUD),
 - Essential Additions: prefix, CORS, Logging, Exception interception
+
+# NestJS
+---
+https://github.com/utimur/fullstack-jwt-auth
